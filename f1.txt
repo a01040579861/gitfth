@@ -1,3 +1,6 @@
 source : 1
 source : dobby  : 2
+<<<<<<< Updated upstream
 source : dobby  : 3
+=======
+>>>>>>> Stashed changes
